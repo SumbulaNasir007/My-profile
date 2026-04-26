@@ -137,11 +137,6 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- RANDOM DEV QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
 <!-- ANIMATED FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=20&fontColor=EAEAEA&animation=fadeIn" width="100%" />
