@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/github/followers/sumbulanasir007?label=Followers&style=for-the-badge&color=00D4AA" alt="Followers" />
 </p>
 
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumbulanasir007&theme=onestar&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-</p>
-
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -59,13 +54,13 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/✅_CheZay-Restaurant_Management_App-6C63FF?style=for-the-badge&logo=restaurant&logoColor=white&labelColor=0D0D0F" alt="CheZay" />
+    <img src="https://img.shields.io/badge/✅_CheZay-Restaurant_Management_App-6C63FF?style=for-the-badge&logoColor=white&labelColor=0D0D0F" alt="CheZay" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/🔨_CineVault-Cinema_Booking_Platform-FF6B6B?style=for-the-badge&logo=cinema&logoColor=white&labelColor=0D0D0F" alt="CineVault" />
+    <img src="https://img.shields.io/badge/🔨_CineVault-Cinema_Booking_Platform-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D0D0F" alt="CineVault" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/🔨_ShopNest-E--Commerce_Store-00D4AA?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D0D0F" alt="ShopNest" />
+    <img src="https://img.shields.io/badge/🔨_ShopNest-E--Commerce_Store-00D4AA?style=for-the-badge&logoColor=white&labelColor=0D0D0F" alt="ShopNest" />
   </a>
 </p>
 
@@ -151,11 +146,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=20&fontColor=EAEAEA&animation=fadeIn" width="100%" />
 </p>
-
-<!-- HIDDEN EASTER EGG: MATRIX RAIN IN CONSOLE -->
-<!-- Right-click → Inspect → Console to see the magic! -->
-<script>
-  console.log("%c👋 Hello fellow developer!", "color: #6C63FF; font-size: 20px; font-weight: bold;");
-  console.log("%cYou found the hidden message! 🎉", "color: #00D4AA; font-size: 14px;");
-  console.log("%cLet's build something amazing together → sumbulanasir127@gmail.com", "color: #EAEAEA; font-size: 12px;");
-</script>
